@@ -1,2 +1,1 @@
-# md_notes
-本仓库是一个Markdown学习笔记。
+本仓库是一个Markdown学习笔记，参考官方教程：https://markdown.com.cn/
